@@ -79,6 +79,6 @@ Primary keys and foreign-key relationships connect the tables and support multi-
 
 ## Author
 
-**Vamsi** — BCA graduate building practical SQL and data analytics skills.
+**Bodigadla Sarvendhra Vamsi** — BCA graduate building practical SQL and data analytics skills.
 
-[View my GitHub profile](https://github.com/u200cbvt)
+[View my GitHub profile](https://github.com/sarvendhra-vamsi)
